@@ -358,7 +358,7 @@ void Render::loop_subdivision()
 
 ### 效果展示
 
-在此展示三个具有代表新的模型：全是三角面片的兔子、存在边界半边的茶壶、具有多边形面片的F-16飞机![](https://github.com/wb-finalking/Loop_Subdivision_Surface/blob/master/bunny.jpg?raw=true)
+在此展示4个具有代表新的模型：平面正方形、全是三角面片的兔子、存在边界半边的茶壶、具有多边形面片的F-16飞机![](https://github.com/wb-finalking/Loop_Subdivision_Surface/blob/master/circle.jpg?raw=true)![](https://github.com/wb-finalking/Loop_Subdivision_Surface/blob/master/bunny.jpg?raw=true)
 
 ![](https://github.com/wb-finalking/Loop_Subdivision_Surface/blob/master/teapot.jpg?raw=true)
 
