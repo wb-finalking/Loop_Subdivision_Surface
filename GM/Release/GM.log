@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/2/24 18:25:00。
+     1>项目“D:\project\GM\GM\GM.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\program\QT5.8\5.8\msvc2013\include /I.\GeneratedFiles\Release /ID:\program\QT5.8\5.8\msvc2013\include\QtCore /ID:\program\QT5.8\5.8\msvc2013\include\QtGui /ID:\program\QT5.8\5.8\msvc2013\include\QtWidgets /ID:\program\QT5.8\5.8\msvc2013\include\QtOpenGL /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_OPENGL_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gm.cpp
+         gm.cpp
+       Link:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\GM\Win32\Release\\GM.exe" /NOLOGO /LIBPATH:D:\program\QT5.8\5.8\msvc2013\lib D:\program\QT5.8\5.8\msvc2013\lib\qtmain.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Core.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Gui.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Widgets.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5OpenGL.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\project\GM\Win32\Release\GM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\GM\Win32\Release\GM.lib" /MACHINE:X86 /SAFESEH:NO Release\qrc_gm.obj
+         Release\moc_gm.obj
+         Release\moc_render.obj
+         Release\gm.obj
+         Release\main.obj
+         Release\Matrix4.obj
+         Release\readObj.obj
+         Release\render.obj
+         Release\Vector4.obj
+         GM.vcxproj -> D:\project\GM\Win32\Release\GM.exe
+     1>已完成生成项目“D:\project\GM\GM\GM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.38

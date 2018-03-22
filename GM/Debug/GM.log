@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/2/4 23:37:16。
+     1>项目“D:\project\GM\GM\GM.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing render.h...
+       ClCompile:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\program\QT5.8\5.8\msvc2013\include /I.\GeneratedFiles\Debug /ID:\program\QT5.8\5.8\msvc2013\include\QtCore /ID:\program\QT5.8\5.8\msvc2013\include\QtGui /ID:\program\QT5.8\5.8\msvc2013\include\QtWidgets /ID:\program\QT5.8\5.8\msvc2013\include\QtOpenGL /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_OPENGL_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_gm.cpp GeneratedFiles\Debug\moc_render.cpp gm.cpp main.cpp render.cpp
+         moc_gm.cpp
+         moc_render.cpp
+         gm.cpp
+         main.cpp
+         render.cpp
+         正在生成代码...
+       Link:
+         D:\program\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\GM\Win32\Debug\\GM.exe" /NOLOGO /LIBPATH:D:\program\QT5.8\5.8\msvc2013\lib D:\program\QT5.8\5.8\msvc2013\lib\qtmaind.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Cored.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Guid.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5Widgetsd.lib D:\program\QT5.8\5.8\msvc2013\lib\Qt5OpenGLd.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\project\GM\Win32\Debug\GM.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\GM\Win32\Debug\GM.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Debug\moc_gm.obj
+         Debug\moc_render.obj
+         Debug\qrc_gm.obj
+         Debug\gm.obj
+         Debug\main.obj
+         Debug\Matrix4.obj
+         Debug\readObj.obj
+         Debug\render.obj
+         Debug\Vector4.obj
+         GM.vcxproj -> D:\project\GM\Win32\Debug\GM.exe
+     1>已完成生成项目“D:\project\GM\GM\GM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.08
